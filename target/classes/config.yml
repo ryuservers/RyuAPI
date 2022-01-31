@@ -1,0 +1,4 @@
+mainCommand: rapi
+prefix: "&f[&6RyuAPI&f]"
+port: 25618
+call: "calls.json"

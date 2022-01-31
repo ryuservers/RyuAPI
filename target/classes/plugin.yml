@@ -1,0 +1,6 @@
+name: RyuAPI
+version: 1.0.0
+description: This is the main API plugin owned by RyuServers
+author: waugustoaf
+
+main: com.ryuservers.api.RyuAPI
